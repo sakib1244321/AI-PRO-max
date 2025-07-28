@@ -8,10 +8,10 @@
     "allowInbox": false,
     "autoClean": true,
     "commandDisabled": [
-        "sim.js"
+        ""
     ],
     "eventDisabled": [
-        "join.js"
+        ""
     ],
     "EMAIL": "",
     "PASSWORD": "",
